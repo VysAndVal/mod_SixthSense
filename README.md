@@ -1,2 +1,1 @@
-# mod_SixthSense
-mod_SixthSense
+Лампа 6 чувство время 15 секунд
